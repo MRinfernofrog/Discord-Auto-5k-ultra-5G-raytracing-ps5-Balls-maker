@@ -11,6 +11,9 @@ and you can get banned from servers for doing this so try not to end up like thi
 
 pls read me less important
 ```
+To edit the file you must have:
+notepad or something els
+
 To use you will need to uncommnet one of the two options at the start of th script
 the options are:
 
